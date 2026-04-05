@@ -28,3 +28,6 @@ except KeyboardInterrupt:
     print("\nProgram stopped by user")
 finally:
     GPIO.cleanup()
+
+#4-6-16-18-20" — the 5 pin numbers to remember
+#5v
