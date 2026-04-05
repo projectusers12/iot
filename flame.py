@@ -28,3 +28,7 @@ except KeyboardInterrupt:
     print("\nSystem Disarmed")
 finally:
     GPIO.cleanup()
+
+
+
+#Pins to remember: "1 — 6 — 11" for sensor, "12 — 14" for LED
